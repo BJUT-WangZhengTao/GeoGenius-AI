@@ -1,0 +1,5 @@
+{
+  "name": "GeoGenius AI",
+  "description": "An interactive geometry explorer focusing on the Law of Cosines with real-time AI tutoring powered by Gemini.",
+  "requestFramePermissions": []
+}
